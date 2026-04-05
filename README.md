@@ -23,9 +23,6 @@ This project presents an interactive Power BI dashboard analyzing Superstore sal
 - Monthly Sales & Profit trends
 - Sales distribution using Map visualization
 
-## 📸 Dashboard Preview
-(Add your screenshot here)
-
 ## 🔍 Key Insights
 - COD is the most used payment method
 - Consumer segment contributes highest sales
